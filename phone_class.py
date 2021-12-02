@@ -1,7 +1,7 @@
 """
 Assignment 10.1: Your Own Class
 Aidan Sterling
-practice making classes by making a class that simulates a real world object
+purpose: practice making classes by making a class that simulates a real world object
 """
 
 #Phone class: phone objects can call eachother using a class attribute called network
