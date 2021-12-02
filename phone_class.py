@@ -272,7 +272,7 @@ def main():
         #help command
         if user_input == "help":
             #print valid commands
-            print("'auto', 'create phone', 'show phones', 'edit phone', 'add contact', 'start', exit', 'help'")
+            print("'auto', 'create phone', 'show phones', 'edit phone', 'start', exit', 'help'")
         #auto command
         if user_input == "auto":
             #reset list of phones
